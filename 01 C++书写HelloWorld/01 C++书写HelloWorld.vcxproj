@@ -182,6 +182,8 @@
     <ClCompile Include="7.1 指针的定义 7.2指针的使用.cpp" />
     <ClCompile Include="7.3 指针的内存.cpp" />
     <ClCompile Include="7.4 空指针和野指针.cpp" />
+    <ClCompile Include="7.5 const修饰指针.cpp" />
+    <ClCompile Include="7.6 指针和数组.cpp" />
     <ClCompile Include="swap.cpp" />
   </ItemGroup>
   <ItemGroup>
