@@ -2,7 +2,7 @@
 #include<string>
 #include<ctime>
 using namespace std;
-
+/*
 //结构体做函数参数
 
 //传递方式有两种:
@@ -57,9 +57,7 @@ int main() {
 		 << "学生姓名: " << s.name << endl
 		 << "学生年龄: " << s.age << endl
 		 << "学生成绩: " << s.score << endl;
-
-
-
 	system("pause");
 	return 0;
 }
+*/
