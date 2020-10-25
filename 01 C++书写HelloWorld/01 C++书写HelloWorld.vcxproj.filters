@@ -153,6 +153,15 @@
     <ClCompile Include="7.6 指针和数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7.7 指针和函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.8 指针, 数组, 函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.1 结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
